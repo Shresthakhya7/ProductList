@@ -1,0 +1,21 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+  padding:10px 20px;
+  display: flex;
+}
+button{
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px 20px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.5s ease;
+  background-color: rgb(11, 87, 87);
+}
+button:hover{
+  background-color: rgb(21, 22, 22);
+}
+
+  
